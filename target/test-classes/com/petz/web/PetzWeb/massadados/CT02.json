@@ -1,0 +1,34 @@
+{
+	"data": [
+		{
+			"produto": "osso"
+		},
+		{
+			"produto": "bolinha"
+		},
+		{
+			"produto": "petisco"
+		},
+		{
+			"produto": "brinquedo"
+		},
+		{
+			"produto": "tapete"
+		},
+		{
+			"produto": "cama"
+		},
+		{
+			"produto": "toca"
+		},
+		{
+			"produto": "roupa"
+		},
+		{
+			"produto": "shampoo"
+		},
+		{
+			"produto": "condicionador"
+		}
+	]
+}
